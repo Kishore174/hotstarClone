@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23366ea3.css",
+    "main.js": "/static/js/main.708a77f9.js",
+    "static/js/787.2551486b.chunk.js": "/static/js/787.2551486b.chunk.js",
+    "static/media/slide2.png": "/static/media/slide2.2865f6f7a889c9665618.png",
+    "static/media/slide7.png": "/static/media/slide7.a4cf45cd7d59f081734c.png",
+    "static/media/slide1.png": "/static/media/slide1.4d67258bbae793950578.png",
+    "static/media/slide3.png": "/static/media/slide3.f9a30f7fcc4a83687d87.png",
+    "static/media/Disney-Symbol.png": "/static/media/Disney-Symbol.a6a0077d559611e816a2.png",
+    "static/media/slide4.png": "/static/media/slide4.47a6cb210e133d2e9659.png",
+    "index.html": "/index.html",
+    "main.23366ea3.css.map": "/static/css/main.23366ea3.css.map",
+    "main.708a77f9.js.map": "/static/js/main.708a77f9.js.map",
+    "787.2551486b.chunk.js.map": "/static/js/787.2551486b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23366ea3.css",
+    "static/js/main.708a77f9.js"
+  ]
+}
